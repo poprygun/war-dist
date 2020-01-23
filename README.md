@@ -1,6 +1,6 @@
 # Example Distribution Simple War to Kubernetes or Docker
 
-### Deploy resources to kubernetes
+## Example running in Kubernetes
 
 ```bash
 kubectl create -f deployment.yaml
