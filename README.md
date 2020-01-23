@@ -1,4 +1,4 @@
-# Example Distribution Simple War to Kubernetes
+# Example Distribution Simple War to Kubernetes or Docker
 
 ### Deploy resources to kubernetes
 
