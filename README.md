@@ -1,7 +1,5 @@
 # Example Distribution Simple War to Kubernetes
 
-## Example running in Docker
-
 ### Deploy resources to kubernetes
 
 ```bash
@@ -14,9 +12,11 @@ kubectl create -f deployment.yaml
 kubectl get node -o wide
 ```
 
-In out case, INTERNAL-IP is `192.168.99.100`
+In our case, INTERNAL-IP is `192.168.99.100`
 
 ### Application should be [running](http://192.168.99.100:30800/SampleWebApp/)
+
+## Example running in Docker
 
 ### Prepare docker image
 
